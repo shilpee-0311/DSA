@@ -1,2 +1,2 @@
 # DSA
-In this solve a multiple question based  on Data Structure and Algorithm
+In this solve a variety ofquestion based  on Data Structure and Algorithm
